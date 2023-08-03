@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/r2/v17
+/asdasdasd/asdasdasd/Program.cs
+*.json
+/asdasdasd
+/.gitignore
+/asdasdasd/asdasdasd.sln
+/.gitignore
